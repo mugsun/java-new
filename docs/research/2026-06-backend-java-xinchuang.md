@@ -91,7 +91,7 @@
 | API 文档 | **springdoc-openapi**（Swagger UI） | springdoc / smart-doc | smart-doc 中国特有 |
 | 架构 | **Spring Modulith 2.0（模块化单体）** 回潮（42% 从微服务回退） | Spring Boot + 微服务分解 | 国际 2026 回归理性单体 |
 | 框架格局 | Spring Boot 62% 统治；Quarkus 6–8%、Micronaut 3–5% 小众 | Spring Boot 统治 | 一致 |
-| 脚手架 | start.spring.io + 自建；**没有 BladeX 式一体化低代码平台** | BladeX/若依/JeecgBoot 全栈平台林立 | **国际无对标 = 机会，也=没人验证** |
+| 脚手架 | start.spring.io + 自建；**没有 commercial low-code platform 式一体化低代码平台** | commercial low-code platform/同行后台/JeecgBoot 全栈平台林立 | **国际无对标 = 机会，也=没人验证** |
 
 ### 4.2 ORM 这个岔路必须你来定
 
@@ -130,8 +130,8 @@ API 文档：springdoc-openapi（国际标准）；可选 smart-doc（国内无�
 
 1. **同时拿下信创合规 + 国际工程标准**：国内竞品几乎没人内置 Testcontainers/OpenTelemetry/Spring Modulith，也没人把国密做成干净 starter。
 2. **PG-first**：与所有 MySQL-first 国产竞品错位，吃 PG 系信创库 + 国际生态 + 向量检索。
-3. **SB4 + JDK21 代差**：信创可落地的前提下仍领先 BladeX（SB 3.2）和 yudao（SB 2.7）。
-4. **模块化单体 ⇄ 微服务一套代码**：对标 BladeX「单体/微服务两套产品两次收费」。
+3. **SB4 + JDK21 代差**：信创可落地的前提下仍领先 commercial low-code platform（SB 3.2）和 yudao（SB 2.7）。
+4. **模块化单体 ⇄ 微服务一套代码**：对标 commercial low-code platform「单体/微服务两套产品两次收费」。
 
 ---
 
